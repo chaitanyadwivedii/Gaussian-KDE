@@ -1,5 +1,5 @@
 
-## Gaussian Kernel Density Estimator
+# Gaussian Kernel Density Estimator
  
 Optimised implementation of gaussian KDE using multiple threads.
 
