@@ -1,5 +1,19 @@
 
-## Directory Lay out
+## Gaussian Kernel Density Estimator
+ 
+Optimised implementation of gaussian KDE using multiple threads.
+
+# Data
+1) MNIST
+2) CIFAR
+
+# Language/Library
+1) Python3
+2) Numpy
+3) multiprocessing
+4) tqdm
+
+# Directory Lay out
 
 1) GridSearch.py: Code for performing grid search on values of sigma for both datasets. Usage: "python3 gridSearch.py mnist/cifar"
 
