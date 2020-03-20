@@ -3,17 +3,17 @@
  
 Optimised implementation of gaussian KDE using multiple threads.
 
-# Data
+## Data
 1) MNIST
 2) CIFAR
 
-# Language/Library
+## Language/Library
 1) Python3
 2) Numpy
 3) multiprocessing
 4) tqdm
 
-# Directory Lay out
+## Directory Lay out
 
 1) GridSearch.py: Code for performing grid search on values of sigma for both datasets. Usage: "python3 gridSearch.py mnist/cifar"
 
